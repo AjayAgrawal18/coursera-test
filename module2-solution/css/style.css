@@ -30,7 +30,12 @@ p
     background-color: pink;
     text-align: center;
 }
-
+.d1{
+	background-color: yellow;
+}
+.d2{
+	background-color: green;
+}
 .sectionTitle
 {
     text-align: center;
